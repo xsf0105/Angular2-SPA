@@ -1,4 +1,4 @@
-# Angular2.x Router Demo
+# Angular 2.x Router Demo
 
 
 - :point_right: 其他技术资源：需要参与技术交流请加QQ群 473362324 或 424073859
