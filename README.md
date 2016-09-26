@@ -5,9 +5,10 @@
   <br/>vue.js：https://github.com/allan2coder/Vue-SPA
   <br/>微信小程序（应用号）：https://github.com/allan2coder/weixinApp
 
-
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.8.
 
+![image](https://raw.githubusercontent.com/allan2coder/angular2-router-starter/master/public/img/2.png)
+![image](https://raw.githubusercontent.com/allan2coder/angular2-router-starter/master/public/img/1.png)
 
 ## How to use
 First, you should clone the repo and install the dependencies.
