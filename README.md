@@ -1,7 +1,7 @@
 # Angular2.x Router Demo
 
 
-- 其他技术资源：开发资源QQ群 473362324
+- 其他技术资源：需要参与技术交流请加QQ群 473362324 或 424073859
   <br/>vue.js：https://github.com/allan2coder/Vue-SPA
   <br/>微信小程序（应用号）：https://github.com/allan2coder/weixinApp
 
