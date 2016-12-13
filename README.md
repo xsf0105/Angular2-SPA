@@ -1,9 +1,9 @@
 # Angular 2.x Router Demo
 
 
-- :point_right: 其他技术资源：需要参与技术交流请加QQ群 473362324 或 424073859
-  <br/>vue.js：https://github.com/allan2coder/Vue-SPA
-  <br/>微信小程序（应用号）：https://github.com/allan2coder/weixinApp
+### point_right: 其他技术资源：需要参与技术交流请加QQ群 424073859
+- [Vue2.x SPA](https://github.com/allan2coder/VUE2-SPA-Tutorial)
+- [微信小程序（应用号）qq群：473362324](https://github.com/allan2coder/weixinApp)
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.8.
 
