@@ -3,7 +3,6 @@
 
 ### point_right:
 - [Vue2.x SPA](https://github.com/allan2coder/VUE2-SPA-Tutorial)
-- [微信小程序(应用号)](https://github.com/allan2coder/weixinApp)
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.8.
 
