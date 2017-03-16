@@ -10,7 +10,7 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 ![image](https://raw.githubusercontent.com/allan2coder/angular2-router-starter/master/public/img/1.png)
 
 ## How to use
-First, you should clone the repo and install the dependencies.
+You should clone the repo and install the dependencies, and then npm start.That is all.
 
 ```bash
 $ git clone https://github.com/allan2coder/angular2-router-starter.git <yourAppName>
