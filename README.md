@@ -1,9 +1,4 @@
 # Angular 2.x Router Demo
-
-
-### point_right:
-- [Vue2.x SPA](https://github.com/allan2coder/VUE2-SPA-Tutorial)
-
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.8.
 
 ## How to use
